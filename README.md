@@ -5,8 +5,12 @@ Using the mathematic and conceptual theory I have collected about how neural net
 Using C, for optimal performance, and matching the low-level nature of the task
 - Will attempt to use ncurses TUI for visualisation
 
-### Brainstorm Sketch
+---
 
+### Brainstorm Sketch
+![Sketch of plan](https://github.com/jl33-ai/neurotic-network/blob/main/tui-sketch.png)
+
+---
 
 ### Neural Network Educational Material (Foundational)
 - https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=yORk4beIiWVJDAzU
