@@ -1,4 +1,4 @@
-# neurotic-network
+# neural-net-from-scratch
 *Neural Network from complete scratch | ASCII on the surface, C underneath | First Principles*
 
 Using the mathematic and conceptual theory I have collected about how neural networks work, I am going to attempt to program one from first principles
