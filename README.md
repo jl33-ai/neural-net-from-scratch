@@ -5,6 +5,10 @@ Using the mathematic and conceptual theory I have collected about how neural net
 Using C, for optimal performance, and matching the low-level nature of the task
 - Will attempt to use ncurses TUI for visualisation
 
+
+Essentially trying to replicate these 4 lines of code, from first principles:
+<img width="904" alt="image" src="https://github.com/jl33-ai/neural-net-from-scratch/assets/127172022/5a0cd07d-22ec-4989-885b-a8dac7aded4e">
+
 ---
 
 ### Brainstorm Sketch
